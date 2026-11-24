@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>KOReader RSS Compatibility Test</title>
-<link>https://github.com/bilikyarbht/ai-philosophy-rss</link>
-<description>Test feed with complete original text embedded directly in RSS.</description>
-<language>en</language>
+<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
+<description>Body encoding compatibility tests</description>
 <item>
-<title>RSS Test 1 - Language and Understanding</title>
-<link>https://github.com/bilikyarbht/ai-philosophy-rss</link>
-<guid isPermaLink="false">koreader-rss-test-20261124-1</guid>
-<pubDate>Tue, 24 Nov 2026 07:25:00 GMT</pubDate>
-<description><![CDATA[<h1>Language and Understanding</h1><p>This is an original test passage for KOReader. If you can read this paragraph in an EPUB, the reader has successfully retrieved and converted the content embedded in the RSS feed without requesting the linked page.</p><p>A central question in the philosophy of artificial intelligence concerns the relationship between linguistic competence and understanding. A system may produce a coherent response to a novel question. Further inquiry concerns the capacities that support this response and the role that the response plays in a shared linguistic practice.</p><h2>Reading question</h2><p>What kinds of evidence would distinguish a stable linguistic capacity from a response that succeeds only in a particular context?</p><p>END OF TEST ARTICLE.</p>]]></description>
+<title>RSS V2 A - Plain Text</title>
+<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml#a</link>
+<guid isPermaLink="false">rss-v2-plain</guid>
+<pubDate>Tue, 24 Nov 2026 08:10:00 GMT</pubDate>
+<description>TEST A SUCCESS. This paragraph is embedded as plain XML text. Language and understanding are related philosophical concepts. END OF TEST A.</description>
 </item>
 <item>
-<title>RSS Test 2 - Successful Synchronization</title>
-<link>https://github.com/bilikyarbht/ai-philosophy-rss</link>
-<guid isPermaLink="false">koreader-rss-test-20261124-2</guid>
-<pubDate>Tue, 24 Nov 2026 07:24:00 GMT</pubDate>
-<description><![CDATA[<h1>Successful Synchronization</h1><p>This is the second original test entry. Its presence confirms that the feed contains multiple readable entries.</p><p>END OF SECOND TEST ARTICLE.</p>]]></description>
+<title>RSS V2 B - Escaped HTML</title>
+<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml#b</link>
+<guid isPermaLink="false">rss-v2-escaped</guid>
+<pubDate>Tue, 24 Nov 2026 08:09:00 GMT</pubDate>
+<description>&lt;p&gt;TEST B SUCCESS. This paragraph uses escaped HTML.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;What evidence supports attributing understanding to a linguistic system? END OF TEST B.&lt;/p&gt;</description>
+</item>
+<item>
+<title>RSS V2 C - Content Encoded</title>
+<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml#c</link>
+<guid isPermaLink="false">rss-v2-content</guid>
+<pubDate>Tue, 24 Nov 2026 08:08:00 GMT</pubDate>
+<description>TEST C FALLBACK DESCRIPTION.</description>
+<content:encoded>&lt;p&gt;TEST C SUCCESS. This paragraph uses the RSS content module with escaped HTML.&lt;/p&gt;&lt;p&gt;END OF TEST C.&lt;/p&gt;</content:encoded>
 </item>
 </channel>
 </rss>
