@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:ai-philosophy-rss:opds</id>
   <title>AI Philosophy - Full Papers</title>
-  <updated>2026-11-24T09:00:00Z</updated>
+  <updated>2026-11-24T09:44:00Z</updated>
   <link rel="self" href="https://bilikyarbht.github.io/ai-philosophy-rss/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <id>urn:doi:10.1017/S0140525X00005756</id>
+    <title>Minds, Brains, and Programs (1980)</title>
+    <author><name>John R. Searle</name></author>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>Published target article, 417–424, with accompanying commentaries and author response. University at Buffalo-hosted original journal PDF.</summary>
+    <link rel="http://opds-spec.org/acquisition/open-access" type="application/pdf" href="https://cse.buffalo.edu/~rapaport/Papers/Papers.by.Others/Searle/searle80-MindsBrainsProgs-BBS.pdf"/>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/S0140525X00005756"/>
+  </entry>
   <entry>
     <id>urn:doi:10.1093/mind/LIX.236.433</id>
     <title>Computing Machinery and Intelligence (1950)</title>
