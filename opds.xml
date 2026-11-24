@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:ai-philosophy-rss:opds</id>
+  <title>AI Philosophy - Full Papers</title>
+  <updated>2026-11-24T09:00:00Z</updated>
+  <link rel="self" href="https://bilikyarbht.github.io/ai-philosophy-rss/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <id>urn:doi:10.1093/mind/LIX.236.433</id>
+    <title>Computing Machinery and Intelligence (1950)</title>
+    <author><name>Alan M. Turing</name></author>
+    <updated>2026-11-24T09:00:00Z</updated>
+    <summary>Complete 2026 reprint of Turing's 1950 article, hosted by TU Berlin's institutional repository.</summary>
+    <link rel="http://opds-spec.org/acquisition/open-access" type="application/pdf" href="https://depositonce.tu-berlin.de/bitstreams/30c49b5f-fb33-4a78-946f-8e2784a95860/download"/>
+    <link rel="alternate" type="text/html" href="https://depositonce.tu-berlin.de/items/c4d1c12f-ae42-4ec7-a143-c6777e35f9cb"/>
+  </entry>
+</feed>
