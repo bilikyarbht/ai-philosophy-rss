@@ -5,7 +5,16 @@
 <link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
 <description>Daily AI philosophy papers for KOReader.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 08:50:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:44:00 GMT</lastBuildDate>
+<item>
+<title>John R. Searle (1980) - Minds, Brains, and Programs</title>
+<link>https://doi.org/10.1017/S0140525X00005756</link>
+<guid isPermaLink="false">ai-philosophy-2026-11-24-searle-1980</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+<category>A</category>
+<description>Reading guide and full original PDF link; direct PDF download in OPDS.</description>
+<content:encoded>&lt;p&gt;John R. Searle (1980). &lt;i&gt;Minds, Brains, and Programs.&lt;/i&gt; Behavioral and Brain Sciences, 3(3), 417–424. DOI: 10.1017/S0140525X00005756.&lt;/p&gt;&lt;h2&gt;Why read this paper?&lt;/h2&gt;&lt;p&gt;Following Turing's imitation game, Searle's Chinese Room examines whether executing a formal program is sufficient for understanding and intentionality. It provides a foundational challenge for philosophical accounts of language competence in artificial intelligence.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;Does the Chinese Room establish a general limitation on computational understanding, or does its conclusion depend on how the relevant linguistic subject is individuated?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reading guide:&lt;/b&gt; Download the complete published paper through the OPDS catalog. The university-hosted PDF includes the original target article, subsequent commentaries and Searle's response.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cse.buffalo.edu/~rapaport/Papers/Papers.by.Others/Searle/searle80-MindsBrainsProgs-BBS.pdf&quot;&gt;Full original PDF (University at Buffalo)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1017/S0140525X00005756&quot;&gt;Publisher record&lt;/a&gt;&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>Alan M. Turing (1950) - Computing Machinery and Intelligence</title>
 <link>https://doi.org/10.1093/mind/LIX.236.433</link>
