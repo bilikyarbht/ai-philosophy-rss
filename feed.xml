@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>AI Philosophy - One Paper a Day</title>
-<link>https://github.com/bilikyarbht/ai-philosophy-rss</link>
-<description>A daily AI philosophy reading series for KOReader.</description>
-<lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
+<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
+<description>Daily AI philosophy papers for KOReader.</description>
+<language>en</language>
+<lastBuildDate>Tue, 24 Nov 2026 08:50:00 GMT</lastBuildDate>
 <item>
 <title>Alan M. Turing (1950) - Computing Machinery and Intelligence</title>
-<link>https://spinchange.com/computing-machinery-and-intelligence/</link>
+<link>https://doi.org/10.1093/mind/LIX.236.433</link>
 <guid isPermaLink="false">ai-philosophy-2026-11-23-turing-1950</guid>
 <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-<description>Turing introduces the imitation game as a way of investigating machine intelligence through linguistic behavior. Reading question: Does this approach assume human linguistic performance as the benchmark? Full text: https://spinchange.com/computing-machinery-and-intelligence/ . PDF: https://www.cs.unibo.it/~nuzzoles/courses/intelligenza-artificiale/papers/Turing1950.pdf</description>
-</item>
-<item>
-<title>RSS Setup - Read Me</title>
-<link>https://github.com/bilikyarbht/ai-philosophy-rss</link>
-<guid isPermaLink="false">ai-philosophy-feed-setup-2026</guid>
-<pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-<description>This is a one-time setup notice to improve compatibility with older KOReader versions that had trouble with single-entry feeds. Every new day will contain only one new philosophy paper.</description>
+<category>A</category>
+<description>Reading guide and links to the original paper.</description>
+<content:encoded>&lt;p&gt;Alan M. Turing (1950). &lt;i&gt;Computing Machinery and Intelligence.&lt;/i&gt; Mind, 59(236), 433–460.&lt;/p&gt;&lt;p&gt;DOI: 10.1093/mind/LIX.236.433.&lt;/p&gt;&lt;h2&gt;Why read this paper?&lt;/h2&gt;&lt;p&gt;Turing introduces the imitation game as a way of investigating machine intelligence through linguistic behaviour. The paper is an important starting point for debates about the relationship between language use, intelligence and understanding.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;Does the imitation game take human linguistic performance as a benchmark, and how does that choice shape the inquiry into machine intelligence?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reading guide only:&lt;/b&gt; The original paper is linked below. Its full text has not been republished because permission for redistribution has not been verified.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cs.unibo.it/~nuzzoles/courses/intelligenza-artificiale/papers/Turing1950.pdf"&gt;Original paper (PDF)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1093/mind/LIX.236.433"&gt;Publisher record&lt;/a&gt;&lt;/p&gt;</content:encoded>
 </item>
 </channel>
 </rss>
