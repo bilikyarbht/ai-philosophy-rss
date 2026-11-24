@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>KOReader RSS Compatibility Test</title>
+<title>AI Philosophy - One Paper a Day</title>
 <link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
-<description>Body encoding compatibility tests</description>
+<description>Daily AI philosophy papers for KOReader.</description>
+<language>en</language>
+<lastBuildDate>Tue, 24 Nov 2026 08:50:00 GMT</lastBuildDate>
 <item>
-<title>RSS V2 A - Plain Text</title>
-<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml#a</link>
-<guid isPermaLink="false">rss-v2-plain</guid>
-<pubDate>Tue, 24 Nov 2026 08:10:00 GMT</pubDate>
-<description>TEST A SUCCESS. This paragraph is embedded as plain XML text. Language and understanding are related philosophical concepts. END OF TEST A.</description>
-</item>
-<item>
-<title>RSS V2 B - Escaped HTML</title>
-<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml#b</link>
-<guid isPermaLink="false">rss-v2-escaped</guid>
-<pubDate>Tue, 24 Nov 2026 08:09:00 GMT</pubDate>
-<description>&lt;p&gt;TEST B SUCCESS. This paragraph uses escaped HTML.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;What evidence supports attributing understanding to a linguistic system? END OF TEST B.&lt;/p&gt;</description>
-</item>
-<item>
-<title>RSS V2 C - Content Encoded</title>
-<link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml#c</link>
-<guid isPermaLink="false">rss-v2-content</guid>
-<pubDate>Tue, 24 Nov 2026 08:08:00 GMT</pubDate>
-<description>TEST C FALLBACK DESCRIPTION.</description>
-<content:encoded>&lt;p&gt;TEST C SUCCESS. This paragraph uses the RSS content module with escaped HTML.&lt;/p&gt;&lt;p&gt;END OF TEST C.&lt;/p&gt;</content:encoded>
+<title>Alan M. Turing (1950) - Computing Machinery and Intelligence</title>
+<link>https://doi.org/10.1093/mind/LIX.236.433</link>
+<guid isPermaLink="false">ai-philosophy-2026-11-23-turing-1950</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+<category>A</category>
+<description>Reading guide and links to the original paper.</description>
+<content:encoded>&lt;p&gt;Alan M. Turing (1950). &lt;i&gt;Computing Machinery and Intelligence.&lt;/i&gt; Mind, 59(236), 433–460.&lt;/p&gt;&lt;p&gt;DOI: 10.1093/mind/LIX.236.433.&lt;/p&gt;&lt;h2&gt;Why read this paper?&lt;/h2&gt;&lt;p&gt;Turing introduces the imitation game as a way of investigating machine intelligence through linguistic behaviour. The paper is an important starting point for debates about the relationship between language use, intelligence and understanding.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;Does the imitation game take human linguistic performance as a benchmark, and how does that choice shape the inquiry into machine intelligence?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reading guide only:&lt;/b&gt; The original paper is linked below. Its full text has not been republished because permission for redistribution has not been verified.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cs.unibo.it/~nuzzoles/courses/intelligenza-artificiale/papers/Turing1950.pdf"&gt;Original paper (PDF)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1093/mind/LIX.236.433"&gt;Publisher record&lt;/a&gt;&lt;/p&gt;</content:encoded>
 </item>
 </channel>
 </rss>
