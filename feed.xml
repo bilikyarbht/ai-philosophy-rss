@@ -5,7 +5,17 @@
 <link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
 <description>Daily AI philosophy papers for KOReader.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 09:44:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+<title>Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data (2020)</title>
+<link>https://aclanthology.org/2020.acl-main.463/</link>
+<author>Emily M. Bender; Alexander Koller</author>
+<guid isPermaLink="false">ai-philosophy-2026-11-25-bender-koller-2020</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+<category>B</category>
+<description>Reading guide; complete published PDF available through OPDS.</description>
+<content:encoded>&lt;p&gt;Emily M. Bender and Alexander Koller (2020). &lt;i&gt;Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data&lt;/i&gt;. ACL 2020, pp. 5185–5198. DOI: 10.18653/v1/2020.acl-main.463.&lt;/p&gt;&lt;h2&gt;Reading guide (not full text)&lt;/h2&gt;&lt;p&gt;The authors argue that training on linguistic form alone cannot establish meaning, understood through communicative intent. Their thought experiments connect classical debates about computation and understanding with neural language models.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;Does their definition of meaning presuppose a particular kind of linguistic subject, and how does that affect the impossibility argument?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://aclanthology.org/2020.acl-main.463.pdf&quot;&gt;Complete published PDF (14 pages)&lt;/a&gt; | &lt;a href=&quot;https://aclanthology.org/2020.acl-main.463/&quot;&gt;ACL record&lt;/a&gt;. ACL materials published since 2016 are licensed CC BY 4.0. Full text is available through OPDS; this RSS entry contains a guide only.&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>John R. Searle (1980) - Minds, Brains, and Programs</title>
 <link>https://doi.org/10.1017/S0140525X00005756</link>
