@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:ai-philosophy-rss:opds</id>
   <title>AI Philosophy - Full Papers</title>
-  <updated>2026-11-24T09:44:00Z</updated>
+  <updated>2026-11-25T00:00:00Z</updated>
   <link rel="self" href="https://bilikyarbht.github.io/ai-philosophy-rss/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <id>urn:doi:10.18653/v1/2020.acl-main.463</id>
+    <title>Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data (2020)</title>
+    <author><name>Emily M. Bender</name></author><author><name>Alexander Koller</name></author>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>ACL 2020 Best Theme Paper, pages 5185–5198. Complete published PDF, 14 pages.</summary>
+    <link rel="http://opds-spec.org/acquisition/open-access" type="application/pdf" href="https://aclanthology.org/2020.acl-main.463.pdf"/>
+    <link rel="alternate" type="text/html" href="https://aclanthology.org/2020.acl-main.463/"/>
+  </entry>
   <entry>
     <id>urn:doi:10.1017/S0140525X00005756</id>
     <title>Minds, Brains, and Programs (1980)</title>
