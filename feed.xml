@@ -5,7 +5,17 @@
 <link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
 <description>Daily AI philosophy papers for KOReader.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+<title>Understanding from Machine Learning Models (2022)</title>
+<link>https://doi.org/10.1093/bjps/axz035</link>
+<author>Emily Sullivan</author>
+<guid isPermaLink="false">ai-philosophy-2026-11-26-sullivan-2022</guid>
+<pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+<category>B</category>
+<description>Reading guide only; complete published PDF available through OPDS.</description>
+<content:encoded>&lt;p&gt;Emily Sullivan (2022). &lt;i&gt;Understanding from Machine Learning Models&lt;/i&gt;. British Journal for the Philosophy of Science 73(1), 109–133. DOI: 10.1093/bjps/axz035.&lt;/p&gt;&lt;h2&gt;Reading guide (not full text)&lt;/h2&gt;&lt;p&gt;Sullivan distinguishes understanding a model from understanding a phenomenon through that model. Her account of link uncertainty shifts attention toward the empirical evidence connecting machine learning models to their scientific targets.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;What kind of evidence would reduce link uncertainty sufficiently for a predictive model to provide explanatory understanding?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sites.pitt.edu/~jdnorton/teaching/Phil_Sci_Core/Phil_Sci_Core_2022/docs/ML_revolution/Sullivan_Understanding%20Machine_Learning_BJPS_2022.pdf&quot;&gt;Complete published PDF (University of Pittsburgh teaching site)&lt;/a&gt;. Public redistribution permission not verified; full PDF available through OPDS.&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data (2020)</title>
 <link>https://aclanthology.org/2020.acl-main.463/</link>
