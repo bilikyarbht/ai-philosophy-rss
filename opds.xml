@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:ai-philosophy-rss:opds</id>
   <title>AI Philosophy - Full Papers</title>
-  <updated>2026-11-26T00:00:00Z</updated>
+  <updated>2026-11-27T00:00:00Z</updated>
   <link rel="self" href="https://bilikyarbht.github.io/ai-philosophy-rss/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
+<id>urn:doi:10.48550/arXiv.2303.07103</id>
+<title>Could a Large Language Model be Conscious? (2023)</title>
+<author><name>David J. Chalmers</name></author>
+<updated>2026-11-27T00:00:00Z</updated>
+<summary>Boston Review (2023); arXiv author version, 17 pages.</summary>
+<link rel="http://opds-spec.org/acquisition/open-access" type="application/pdf" href="https://arxiv.org/pdf/2303.07103"/>
+<link rel="alternate" type="text/html" href="https://arxiv.org/abs/2303.07103"/>
+</entry>
+<entry>
     <id>urn:doi:10.1093/bjps/axz035</id>
     <title>Understanding from Machine Learning Models (2022)</title>
     <author><name>Emily Sullivan</name></author>
