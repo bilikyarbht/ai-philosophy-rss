@@ -5,7 +5,17 @@
 <link>https://bilikyarbht.github.io/ai-philosophy-rss/test.xml</link>
 <description>Daily AI philosophy papers for KOReader.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+<title>Could a Large Language Model be Conscious? (2023)</title>
+<link>https://arxiv.org/abs/2303.07103</link>
+<author>David J. Chalmers</author>
+<guid isPermaLink="false">urn:doi:10.48550/arXiv.2303.07103</guid>
+<pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+<category>B</category>
+<description>Reading guide only; complete author PDF through OPDS.</description>
+<content:encoded>&lt;p&gt;David J. Chalmers (2023). Could a Large Language Model be Conscious? Boston Review, August 9, 2023; arXiv:2303.07103 (17-page author version).&lt;/p&gt;&lt;h2&gt;Reading guide (not full text)&lt;/h2&gt;&lt;p&gt;Chalmers distinguishes subjective experience from intelligence and examines the evidential significance of self-reports and architectural features. This extends the earlier debate about linguistic understanding into philosophy of mind.&lt;/p&gt;&lt;h2&gt;Reading question&lt;/h2&gt;&lt;p&gt;What justifies treating a linguistic self-report as evidence of consciousness in a human or an artificial system?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/2303.07103&quot;&gt;Complete author PDF&lt;/a&gt;. Public redistribution permission not verified.&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>Understanding from Machine Learning Models (2022)</title>
 <link>https://doi.org/10.1093/bjps/axz035</link>
